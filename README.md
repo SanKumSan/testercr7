@@ -1,6 +1,6 @@
 # testercr7
 tester
 
-first commit from web
+1. first commit from web
 
-new changes in the branch, which is behind the master.
+2. the master has some new things added and these are not in the branch.
